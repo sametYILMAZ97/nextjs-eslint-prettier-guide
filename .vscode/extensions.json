@@ -1,0 +1,123 @@
+{
+  "recommendations": [
+    // ==================== AI & COPILOT ====================
+    "github.copilot",
+    "github.copilot-chat",
+    "ms-vscode.copilot-mermaid-diagram",
+    "ms-vscode.vscode-copilot-data-analysis",
+    "ms-vscode.vscode-copilot-vision",
+    "ms-vscode.vscode-websearchforcopilot",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+
+    // ==================== ESSENTIAL NEXT.JS/REACT ====================
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "msjsdiag.vscode-react-native",
+    "yoavbls.pretty-ts-errors",
+
+    // ==================== CSS & STYLING ====================
+    "ecmel.vscode-html-css",
+    "naumovs.color-highlight",
+    "vincaslt.highlight-matching-tag",
+    "vunguyentuan.vscode-css-variables",
+    "vunguyentuan.vscode-postcss",
+    "wix.vscode-import-cost",
+
+    // ==================== GIT & VERSION CONTROL ====================
+    "github.codespaces",
+    "github.remotehub",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "mhutchie.git-graph",
+    "ms-vscode.azure-repos",
+    "ms-vscode.remote-repositories",
+    "ms-vsliveshare.vsliveshare",
+
+    // ==================== CODE QUALITY & PRODUCTIVITY ====================
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-turkish",
+    "gruntfuggly.todo-tree",
+    "usernamehw.errorlens",
+    "formulahendry.code-runner",
+    "ms-vscode.vscode-commander",
+
+    // ==================== FILE MANAGEMENT & FORMATS ====================
+    "redhat.vscode-yaml",
+    "ms-vscode.hexeditor",
+    "doggy8088.quicktype-refresh",
+    "dotenv.dotenv-vscode",
+    "yzhang.markdown-all-in-one",
+
+    // ==================== DEVELOPMENT SERVERS & TESTING ====================
+    "ms-vscode.live-server",
+    "ritwickdey.liveserver",
+    "humao.rest-client",
+    "postman.postman-for-vscode",
+
+    // ==================== JAVA & SPRING DEVELOPMENT ====================
+    "redhat.java",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-java-upgrade",
+    "vscjava.vscode-gradle",
+    "vscjava.vscode-maven",
+    "vmware.vscode-boot-dev-pack",
+    "vmware.vscode-spring-boot",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr",
+    "vscjava.migrate-java-to-azure",
+
+    // ==================== PYTHON DEVELOPMENT ====================
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "ms-python.vscode-python-envs",
+
+    // ==================== VUE DEVELOPMENT ====================
+    "vue.volar",
+
+    // ==================== C++ DEVELOPMENT ====================
+    "ms-vscode.cpptools",
+    "ms-vscode.makefile-tools",
+
+    // ==================== CONTAINERIZATION & DEVOPS ====================
+    "docker.docker",
+    "ms-azuretools.vscode-containers",
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode-remote.remote-containers",
+
+    // ==================== DATABASE & TOOLS ====================
+    "redis.redis-for-vscode",
+
+    // ==================== DEBUGGING & DIAGNOSTICS ====================
+    "ms-vscode.js-debug-nightly",
+    "ibm.output-colorizer",
+
+    // ==================== THEMES & UI ====================
+    "joshspicer.sharp-solarized",
+    "krueger71.crt-themes",
+    "momosct.momotheme",
+    "pkief.material-icon-theme",
+    "qufiwefefwoyn.kanagawa",
+    "sdras.night-owl",
+    "teabyii.ayu",
+    "vscode-icons-team.vscode-icons",
+    "zhuangtongfa.material-theme",
+
+    // ==================== NAVIGATION & UTILITIES ====================
+    "jock.svg",
+    "wmaurer.vscode-jumpy",
+
+    // ==================== EXTENSION PACKS ====================
+    "loiane.frontend-extension-pack",
+
+    // ==================== SYSTEM & ENVIRONMENT ====================
+    "ms-vscode.powershell"
+  ]
+}
